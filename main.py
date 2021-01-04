@@ -11,7 +11,7 @@ for height in student_heights:
   if height > highest_height:
     highest_height = height
 
-print(f"The highest height in the class : {highest_height}")
+print(f"The highest height in the class is: {highest_height}")
 
 
 
